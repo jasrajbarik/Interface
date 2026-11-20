@@ -1,4 +1,4 @@
-package com.kodewala.Interface;
+package com.kodewala.Interface1;
 
 public class PropertyTax implements IPropertyTaxDiscount {
 

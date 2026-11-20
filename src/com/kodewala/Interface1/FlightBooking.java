@@ -1,4 +1,4 @@
-package com.kodewala.Interface;
+package com.kodewala.Interface1;
 
 public class FlightBooking implements IDiscount {
     @Override

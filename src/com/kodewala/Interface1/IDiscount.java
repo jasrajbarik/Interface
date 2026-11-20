@@ -1,4 +1,4 @@
-package com.kodewala.Interface;
+package com.kodewala.Interface1;
 //java version 1.7 or before
 public interface IDiscount {
     int MAX_VALUE =1000; //by default public static and final
